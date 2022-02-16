@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vanshajkataria
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking for Internships
 - 📫 How to reach me on vanshajkataria3@gmail.com
 
 <!---
