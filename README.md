@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vanshaj Kataria
+- 👋 Hey, I’m Vanshaj Kataria
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning Web Development
 - 📫 Reach me on vanshajkataria3@gmail.com
