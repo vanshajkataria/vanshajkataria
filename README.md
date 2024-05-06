@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vanshajkataria.github.io/Vanshaj_Kataria/](https://vanshajkataria.github.io/Vanshaj_Kataria/)
 
-- 💬 Ask me about **react.js, next.js, firebase, a-write, etc.**
+- 💬 Ask me about **react.js, next.js, firebase, appwrite, etc.**
 
 - 📫 How to reach me **vanshajkataria3@gmail.com**
 
