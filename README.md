@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS & App Development**
 
-- 👨‍💻 All of my projects are available at [https://vanshajkataria.github.io/Vanshaj_Kataria/](https://vanshajkataria.github.io/Vanshaj_Kataria/)
+- 👨‍💻 All of my projects are available at [Vanshaj Kataria Portfolio Website](https://vanshajkataria.vercel.app)
 
 - 💬 Ask me about **react.js, next.js, firebase, appwrite, etc.**
 
