@@ -1,5 +1,3 @@
-[![An image of @vanshaj_kataria's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vanshaj_kataria)](https://holopin.io/@vanshaj_kataria)
-
 <h1 align="center">Hi 👋, I'm Vanshaj Kataria</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
